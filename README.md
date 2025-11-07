@@ -11,5 +11,7 @@
 - Bluetooth HC-05
 
 ## Файлы
-- `robot-control.aia` - проект App Inventor
-- `arduino/robot_sketch.ino` - скетч для робота
+- `RobotControl.aia` - проект App Inventor
+- `RobotControlSketch.ino` - скетч Arduino
+- UI - внешний вид приложения
+- Blocks - скриншоты кода из mit app inventor
