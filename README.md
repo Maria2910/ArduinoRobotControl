@@ -13,5 +13,5 @@
 ## Файлы
 - `RobotControl.aia` - проект App Inventor
 - `RobotControlSketch.ino` - скетч Arduino
--  UI - внешний вид приложения
--  Blocks - скриншоты кода из mit app inventor
+- `UI` - внешний вид приложения
+- `Blocks` - скриншоты кода из mit app inventor
